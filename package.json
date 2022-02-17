@@ -1,0 +1,8 @@
+{
+  "name": "com.credersi.app.SampleApplication",
+  "description": "SampleApplication",
+  "dependencies": {
+    "@lightningjs/sdk": "^4.8.1",
+    "@lightningjs/ui-components": "^1.2.1"
+  }
+}
